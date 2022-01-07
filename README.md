@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 ## MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=hassan-zafar&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-zafar&theme=radical"/>|
 |---|---|
+## GITHUB PROFILE TROPHY 🏆
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=am-523&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+</p>
 ## CODING ACTIVITY
 <p>
   <img src="https://wakatime.com/share/@hassanzafar/7ae5f807-1095-4c75-beb5-09555bdf313d.svg">/>
