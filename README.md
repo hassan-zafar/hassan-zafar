@@ -32,5 +32,4 @@ Here are some ideas to get you started:
 </p>
 ## CODING ACTIVITY
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hassanzafar&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
+<figure><embed src="https://wakatime.com/share/@hassanzafar/d52243a4-642e-4d26-b13f-304c1d7adc74.svg"></embed></figure></p>
