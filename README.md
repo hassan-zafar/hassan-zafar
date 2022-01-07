@@ -23,5 +23,5 @@ Skills: FLUTTER / PYTHON / TENSORFLOW / SOLIDITY/ NODE.JS
 [![Hassan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassanzafar)](https://github-readme-stats.vercel.app/api/wakatime?username=hassanzafar)
 
   <p>
-    <img src="https://wakatime.com/share/@hassanzafar/6e7bb7d1-6482-478d-bce9-269f25fefbc8.svg" height="400" width="600">
+    <img src="https://wakatime.com/share/@hassanzafar/6e7bb7d1-6482-478d-bce9-269f25fefbc8.svg" height="400" width="500">
   </p>
