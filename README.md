@@ -27,6 +27,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=hassan-zafar&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-zafar&theme=radical"/>|
 |---|---|
 ## CODING ACTIVITY
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hassanzafar&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
+<figure><embed src="https://wakatime.com/share/@hassanzafar/7ae5f807-1095-4c75-beb5-09555bdf313d.svg"></embed></figure>
