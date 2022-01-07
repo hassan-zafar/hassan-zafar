@@ -31,5 +31,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=am-523&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
 ## CODING ACTIVITY
-<p>
-<figure><embed src="https://wakatime.com/share/@hassanzafar/d52243a4-642e-4d26-b13f-304c1d7adc74.svg"></embed></figure></p>
+<div style="height:100px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=hassanzafar&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+</div>
