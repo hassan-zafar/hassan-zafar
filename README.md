@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hassan-zafar/hassan-zafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi , i am Hassan Ayoub Zafar 👋
+- ⚡️ Passionate about Coding & Technology
+- 😄 Wannabe Master of all trades
+- 👨🏻‍💻 Crrently Learning Blockchain.
+- 🌱 Certified Tensorflow developer. 
+- 🔭Flutter App Developer.
+
+ ### Connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Hassan-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassan-zafar-ayoub/)](https://www.linkedin.com/in/hassan-zafar-ayoub//)
+
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=hassan-zafar&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-zafar&theme=radical"/>|
+|---|---|
+## CODING ACTIVITY
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hassan-zafar&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
