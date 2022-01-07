@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Hassan
-
+[![wakatime](https://wakatime.com/badge/user/95cc268b-6e4f-469d-8aee-c933dee3f3be.svg)](https://wakatime.com/@95cc268b-6e4f-469d-8aee-c933dee3f3be)
 Skills: FLUTTER / PYTHON / TENSORFLOW / SOLIDITY/ NODE.JS
 
 - 🔭 I’m currently working on App Development Projects 
@@ -19,4 +19,8 @@ Skills: FLUTTER / PYTHON / TENSORFLOW / SOLIDITY/ NODE.JS
 ![GitHub metrics](https://metrics.lecoq.io/hassan-zafar)  
 
 
-[![Hassan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassanzafar)](https://github.com/hassan-zafar/github-readme-stats)
+[![Hassan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassanzafar)](https://github-readme-stats.vercel.app/api/wakatime?username=hassanzafar)
+
+  <p>
+    <img src="https://wakatime.com/share/@hassanzafar/6e7bb7d1-6482-478d-bce9-269f25fefbc8.svg" height="400" width="600">
+  </p>
