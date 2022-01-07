@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi , i am Hassan Ayoub Zafar 👋
-- ⚡️ Passionate about Coding & Technology
+- ⚡️ Passionate about Coding & Future of Technology
 - 😄 Wannabe Master of all trades
 - 👨🏻‍💻 Crrently Learning Blockchain.
 - 🌱 Certified Tensorflow developer. 
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 |---|---|
 ## CODING ACTIVITY
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hassan-zafar&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hassanzafar&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
