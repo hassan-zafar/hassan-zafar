@@ -3,8 +3,8 @@
 
 Skills: FLUTTER / PYTHON / TENSORFLOW / SOLIDITY/ NODE.JS
 
-- 🔭 I’m currently working on App Development Projects 
-- 🌱 I’m currently learning Blockchain Development 
+- 🔭 I’m currently working as a Flutter Developer
+- 🌱 I’m currently learning Blockchain Development and Dapps
 - 📫 How to reach me: LinkedIn 
 
 
