@@ -7,8 +7,29 @@ Skills: FLUTTER / PYTHON / TENSORFLOW / SOLIDITY/ NODE.JS
 - 🌱 I’m currently learning Blockchain Development and Dapps
 - 📫 How to reach me: LinkedIn 
 
+<p align="center">
+  <a href= "https://github.com/hassan-zafar">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/hassan-zafar-ayoub/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hassan-zafar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hassan-zafar-ayoub/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/hassan-zafar-ayub)  
+  <a href="https://github.com/hassan-zafar/Resume/blob/main/Hassan's%20Resume.pdf">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
+  </a>
+  <a href="mailto:hz.asd1@gmail.com">
+    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
+  </a>
+  <a href="https://medium.com/@hz.asd1">
+    <img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
+  </a>
+  <a href="https://stackoverflow.com/users/12384628/hassan-zafar-ayub">
+    <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
+  </a>
+
+  
+</p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hassan-zafar&margin-w=25&margin-h=25&column=7&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
