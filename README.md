@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Hassan
+### Hi there 👋, I am Hassan
 [![wakatime](https://wakatime.com/badge/user/95cc268b-6e4f-469d-8aee-c933dee3f3be.svg)](https://wakatime.com/@95cc268b-6e4f-469d-8aee-c933dee3f3be)
 
 Skills: FLUTTER / PYTHON / TENSORFLOW / SOLIDITY/ NODE.JS
