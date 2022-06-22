@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Hassan
 [![wakatime](https://wakatime.com/badge/user/95cc268b-6e4f-469d-8aee-c933dee3f3be.svg)](https://wakatime.com/@95cc268b-6e4f-469d-8aee-c933dee3f3be)
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+
 Skills: FLUTTER / PYTHON / TENSORFLOW / SOLIDITY/ NODE.JS
 
 - 🔭 I’m currently working as a Flutter Cross platform Application(Android & IOS) Developer.
