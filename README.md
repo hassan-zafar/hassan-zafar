@@ -37,8 +37,11 @@ Skills: FLUTTER / PYTHON / TENSORFLOW / SOLIDITY/ NODE.JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan-zafar&&show_icons=true&count_private=true&hide_border=true&theme=radical)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hassan-zafar&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="https://github.com/hassan-zafar/hassan-zafar/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 ![GitHub metrics](https://metrics.lecoq.io/hassan-zafar)  
+
 
 [![Hassan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassanzafar)](https://github-readme-stats.vercel.app/api/wakatime?username=hassanzafar)
 
