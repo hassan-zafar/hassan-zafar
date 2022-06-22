@@ -1,6 +1,11 @@
 ### Hi there 👋, I am Hassan
 [![wakatime](https://wakatime.com/badge/user/95cc268b-6e4f-469d-8aee-c933dee3f3be.svg)](https://wakatime.com/@95cc268b-6e4f-469d-8aee-c933dee3f3be)
-
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=hassan-zafar&label=Profile%20views&color=0e75b6&style=plastic" alt="hassan-zafar" /> 
+	<a href = "https://commits.top/pakistan.html" target="_blank">
+<!-- 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="hassan-zafar" target="_blank"/>  -->
+	</a>
+</p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
 Skills: FLUTTER / PYTHON / TENSORFLOW / SOLIDITY/ NODE.JS
