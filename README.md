@@ -8,7 +8,7 @@
 </p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
-Skills: FLUTTER / PYTHON / TENSORFLOW / SOLIDITY/ NODE.JS
+Skills: FLUTTER / PYTHON / TensorFlow / SOLIDITY/ NODE.JS
 
 - 🔭 I’m currently working as a Flutter Cross platform Application(Android & IOS) Developer.
 - 🌱 I’m currently learning Blockchain Development and Dapps.
