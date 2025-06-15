@@ -11,7 +11,6 @@
 Skills: FLUTTER / PYTHON / Django / DRF TensorFlow / NODE.JS / React
 
 - 🔭 I’m a Senior Full Stack Web and Mobile Software Engineer 
-- 🌱 I have also been working as a Flutter (Cross platform Application(Android & IOS) Developer) since 2019.
 - 🌱 Currently I am full time working as a Full stack Django-React developer.
 - 🌱 I’m currently learning Blockchain Development and Dapps.
 - 📫 I am also a certified Flutter. Django, Node and even certified Tensorflow(AI) Developer as well.
